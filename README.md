@@ -3,6 +3,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+            <div class="email">
+              <i class="bi bi-envelope"></i>
+              <h4>Email:</h4>
+              <p><a href="mailto:shethabhi11@gmail.com">shethabhi11@gmail.com</a></p>
+            </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
